@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 __description__ = "Decode an encoded VBScript, often seen as a .vbe file"
-__author__ = "Sourav Garg Chetry"
+__author__ = "Sourav Garg"
 __date__ = '02/10/2021'
 
 """
